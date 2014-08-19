@@ -1,0 +1,38 @@
+{
+	"name" : "Jenna Thompson",
+	"gender" : "female",
+	"age" : 25,
+	"height" : 66,
+	"head" :
+	{
+		"eyes" : 
+		{
+			"color" : "blue",
+			"shape" : "oval",
+			"blinkRate" : 526
+		},
+		"nose" :
+		{
+			"freckles" : 22,
+			"type" : "Roman"
+		},
+		"mouth" :
+		{
+			"lips" : "pink",
+			"teeth" : "crooked"
+		}
+	},
+	"body":
+	{
+		"weight" : 145,
+		"shape" : "pear",
+		"arms" :
+		{
+			"length" : 34
+		},
+		"legs" :
+		{
+			"length" : 32
+		}
+	}
+}
